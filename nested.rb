@@ -123,5 +123,3 @@ def adding_to_dennis
      }
 
 end
-binding.pry
-hopper
